@@ -13,7 +13,7 @@ do
     declare -i result=$((i*j))
     declare -i length=${#result}
     printf "%$((width - length))s" " "
-    printf "${color}%i\e[0m" $((i*j))
+    printf "${color}%i\e[0m" $result
   done
   printf "\n"
 done
