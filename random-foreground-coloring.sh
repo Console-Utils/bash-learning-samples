@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 declare -a colors=({30..37} {90..97} 39)
 declare -i colorsLength=${#colors[@]}
 
