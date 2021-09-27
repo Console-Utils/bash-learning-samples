@@ -1,3 +1,3 @@
 # Learning examples
 
-Here I've put my sample CMD programs.
+Here I've put my sample Bash programs.
