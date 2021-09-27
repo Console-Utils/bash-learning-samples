@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 declare -r -i width=15
 
 for background in {40..47} {100..107} 49

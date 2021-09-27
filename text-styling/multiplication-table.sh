@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 declare -r -i width=3
 
 for i in {1..9}
